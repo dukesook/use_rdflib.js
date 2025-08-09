@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "rdflib": "^2.2.37"
   }
